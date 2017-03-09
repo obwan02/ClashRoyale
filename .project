@@ -3,6 +3,7 @@
 	<name>GitHub_ClashRoyale</name>
 	<comment></comment>
 	<projects>
+		<project>ClashRoyale</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>
