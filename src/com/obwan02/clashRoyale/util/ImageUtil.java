@@ -10,7 +10,7 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 
 public class ImageUtil {
-
+	
 	public static BufferedImage load(String path) {
 		BufferedImage img;
 		
